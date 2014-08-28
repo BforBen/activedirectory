@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>GuildfordBoroughCouncil.ActiveDirectory</id>
+    <version>1.0.0</version>
+    <authors>Ben Cheetham</authors>
+    <owners>Guildford Borough Council</owners>
+    <licenseUrl>https://github.com/GuildfordBC/activedirectory/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/GuildfordBC/activedirectory</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>POCO model for Active Directory lookup.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+  </metadata>
+</package>
